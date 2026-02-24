@@ -7,13 +7,13 @@
 
 ## ✨ About Me  
 
-I am a driven **Data Analyst** with strong skills in **data reporting, visualization, and analysis**.I have hands-on experience transforming raw datasets into **meaningful, actionable insights** using Python, SQL, Excel, and Power BI.With an academic background in **Electronics and Communication Engineering**, I bring both **analytical thinking and technical depth**, and I am eager to grow in a fast-paced, data-driven environment.
+I am a driven Data Analyst with strong skills in data reporting, visualization, and analysis.I have hands-on experience transforming raw datasets into meaningful, actionable insights using Python, SQL, Excel, and Power BI.With an academic background in Electronics and Communication Engineering, I bring both analytical thinking and technical depth**, and I am eager to grow in a fast-paced, data-driven environment.
 
 ---
 
 ## 🎯 Career Objective  
 
-To begin my career as a **Data Analyst**, where I can apply my analytical skills, enhance my technical expertise, and contribute to effective **data-driven decision-making**.
+To begin my career as a Data Analyst, where I can apply my analytical skills, enhance my technical expertise, and contribute to effective data-driven decision-making.
 
 ---
 
